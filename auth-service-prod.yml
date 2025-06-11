@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://159.223.87.127:3305/ecommerce_auth
+    username: remote_user
+    password: 49@Da5J,[KsemDN}
